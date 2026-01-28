@@ -83,8 +83,3 @@ namespace picacomic
 
 
 
-
-
-
-
- 
